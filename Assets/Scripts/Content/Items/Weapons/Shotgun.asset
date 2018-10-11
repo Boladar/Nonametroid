@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9edd49cb3574a34409a86b63a9178461, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  type: 1
+  itemName: Shotgun
+  sprite: {fileID: 21300002, guid: 6530de33a7f9a88439e41b2dee8047f1, type: 3}
+  description: 
+  ammoID: 1
+  maxAmmoQuantity: 10
+  weaponDamage: 10
+  shootCooldown: 1
+  projectileSprite: {fileID: 21300000, guid: 960ab044c0122c741ae10a24661f001b, type: 3}
